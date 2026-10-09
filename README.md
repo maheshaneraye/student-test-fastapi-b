@@ -35,6 +35,8 @@ pytest -v
 # Run FastAPI app locally
 uvicorn app.main:app --host 0.0.0.0 --port 8000
 ```
+test -1
+
 
 ## Docker Build
 ```bash
